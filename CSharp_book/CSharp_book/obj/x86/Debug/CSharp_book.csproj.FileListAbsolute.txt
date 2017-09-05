@@ -1,0 +1,5 @@
+/Users/EugeneLyashenko/Projects/CSharp_book/CSharp_book/obj/x86/Debug/CSharp_book.csproj.CoreCompileInputs.cache
+/Users/EugeneLyashenko/Projects/CSharp_book/CSharp_book/bin/Debug/CSharp_book.exe
+/Users/EugeneLyashenko/Projects/CSharp_book/CSharp_book/bin/Debug/CSharp_book.pdb
+/Users/EugeneLyashenko/Projects/CSharp_book/CSharp_book/obj/x86/Debug/CSharp_book.exe
+/Users/EugeneLyashenko/Projects/CSharp_book/CSharp_book/obj/x86/Debug/CSharp_book.pdb

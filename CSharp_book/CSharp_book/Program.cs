@@ -16,31 +16,54 @@ namespace CSharp_book
             Console.WriteLine("\nPlease enter the count of teeth:");
             var numberOfTeeth = int.Parse(Console.ReadLine());
 
-			Console.WriteLine("\nHow many children?");
-			var childrenCount = int.Parse(Console.ReadLine()); // как защититься от стриги или нуля?
+            Console.WriteLine("\nHow many children?");
+            var childrenCount = int.Parse(Console.ReadLine()); // как защититься от стриги или нуля?
 
             // New Person
-            Person p = new Person();
+            Person p = new Person("Vasil",12);
+
             int num = p.LuckyNumber(numberOfTeeth, age, childrenCount);
 
-			Console.WriteLine("The Lucky Number of {0} is {1}", name, num);
+
+            Console.WriteLine("The Lucky Number of {0} is {1}", name, num);
         }
     }
 
     class Person
-    {
+    {   
         // Fields
-        public string gender;
-        public string heOrShe;
-        public string name;
-        public int numberOfTeeth;
-        public int age;
-        public int childrenCount;
+        private string name;
+        int numberOfTeeth;
+        int age;
+        int childrenCount;
 
-        // Method
+        public Person(string name, int age){
+            this.age = age;
+            this.name = name;
+            
+        }
+
+        // If only numberOfTeeth and age has beed entered
+        public int LuckyNumber(int numberOfTeeth, int age)
+        {
+            return (numberOfTeeth * age);
+        }
+
+        // If User enter childrenCount
         public int LuckyNumber(int numberOfTeeth, int age, int childrenCount)
         {
-            return (numberOfTeeth * age / childrenCount);
+            if (childrenCount <= 0)
+            {
+                return (numberOfTeeth * age);
+            }
+            //else if (childrenCount == null)
+            //{
+            //    return (numberOfTeeth * age);
+            //}
+            else
+            {
+                return (numberOfTeeth * age / childrenCount);
+            }
         }
     }
 }

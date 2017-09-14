@@ -37,12 +37,6 @@ namespace CSharp_book
         int age;
         int childrenCount;
 
-        ////public Person(string name, int age)
-        //{
-        //    this.age = age;
-        //    this.name = name;
-        //}
-
         // If only numberOfTeeth and age has beed entered
         public int LuckyNumber(int numberOfTeeth, int age)
         {

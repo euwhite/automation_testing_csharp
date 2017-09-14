@@ -20,7 +20,7 @@ namespace CSharp_book
             var childrenCount = int.Parse(Console.ReadLine()); // как защититься от стриги или нуля?
 
             // New Person
-            Person p = new Person("Vasil",12);
+            Person p = new Person();
 
             int num = p.LuckyNumber(numberOfTeeth, age, childrenCount);
 
@@ -32,16 +32,16 @@ namespace CSharp_book
     class Person
     {   
         // Fields
-        private string name;
+        string name;
         int numberOfTeeth;
         int age;
         int childrenCount;
 
-        public Person(string name, int age){
-            this.age = age;
-            this.name = name;
-            
-        }
+        ////public Person(string name, int age)
+        //{
+        //    this.age = age;
+        //    this.name = name;
+        //}
 
         // If only numberOfTeeth and age has beed entered
         public int LuckyNumber(int numberOfTeeth, int age)
@@ -56,10 +56,6 @@ namespace CSharp_book
             {
                 return (numberOfTeeth * age);
             }
-            //else if (childrenCount == null)
-            //{
-            //    return (numberOfTeeth * age);
-            //}
             else
             {
                 return (numberOfTeeth * age / childrenCount);

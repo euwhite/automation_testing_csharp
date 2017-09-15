@@ -15,8 +15,11 @@ namespace UltimateQALessons
             string type = "Quarterly";
 
             Report myReport = new Report(name, date, type);
+
             myReport.ReportType();
+
             Console.WriteLine(myReport.CreateReport());
+
             myReport.ReportCount(5);
         }
     }

@@ -54,6 +54,7 @@ namespace UltimateQALessons
             set;
         }
 
+        // Methods
         public void ReportType()
         {
             Console.WriteLine("This is a {0} report", Type);

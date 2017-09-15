@@ -1,6 +1,13 @@
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.csprojResolveAssemblyReference.cache
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.exe.config
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.exe
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.pdb
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.exe
-C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.pdb
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.csprojResolveAssemblyReference.cache
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.exe.config
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.exe
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.pdb
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.exe
+C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.pdb
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.exe.config
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.exe
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/bin/Debug/UltimateQALessons.pdb
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.csprojResolveAssemblyReference.cache
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.csproj.CoreCompileInputs.cache
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.exe
+/Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.pdb

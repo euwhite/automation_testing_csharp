@@ -9,28 +9,26 @@ namespace HardwareStoreExample
     class Invoice
     {
         // fields
-        private string partNo;
-        private string partDescription;
         private int quantity;
         private decimal price;
 
         // constructor
-        public Invoice(string partNo, string partDescription, int quantity, decimal price)
+        public Invoice(string part, string description, int quantity, decimal price)
         {
-            PartNo = partNo;
-            PartDescription = partDescription;
+            Part = part;
+            Description = description;
             Quantity = quantity;
             Price = price;
         }
 
         // get-set accessors
-        public string PartNo
+        public string Part
         {
             get;
             set;
         }
 
-        public string PartDescription
+        public string Description
         {
             get;
             set;
@@ -44,7 +42,7 @@ namespace HardwareStoreExample
             }
             set
             {
-                if (quantity >= 0)
+                if(quantity >= 0)
                 {
                     quantity = value;
                 }
@@ -68,9 +66,9 @@ namespace HardwareStoreExample
         }
 
         // methods
-        public void GetInvoiceAmount(string partNo, string partDescription, int quantity, decimal price)
+        public decimal GetInvoiceAmt()
         {
-            Console.WriteLine("The amount of the Invoice is " + (quantity * price));
+            return Quantity * Price;
         }
     }
 }

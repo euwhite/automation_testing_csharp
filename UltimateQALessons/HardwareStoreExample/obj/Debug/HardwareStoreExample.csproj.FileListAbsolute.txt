@@ -1,0 +1,7 @@
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/obj/Debug/HardwareStoreExample.csprojResolveAssemblyReference.cache
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/obj/Debug/HardwareStoreExample.csproj.CoreCompileInputs.cache
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/bin/Debug/HardwareStoreExample.exe.config
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/bin/Debug/HardwareStoreExample.exe
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/bin/Debug/HardwareStoreExample.pdb
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/obj/Debug/HardwareStoreExample.exe
+/Users/EugeneLyashenko/Projects/UltimateQALessons/HardwareStoreExample/obj/Debug/HardwareStoreExample.pdb

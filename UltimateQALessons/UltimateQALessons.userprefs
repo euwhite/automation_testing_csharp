@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{03C7BB48-4446-49A6-AE1F-B3D842EFE12E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HardwareStoreExample/Invoice.cs">
+    <Files>
+      <File FileName="HardwareStoreExample/Program.cs" Line="13" Column="1" />
+      <File FileName="HardwareStoreExample/Invoice.cs" Line="11" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HardwareStoreExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>UltimateQALessons/UltimateQALessons.csproj</String>
+  </DisabledProjects>
+</Properties>

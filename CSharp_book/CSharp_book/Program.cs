@@ -17,7 +17,7 @@ namespace CSharp_book
             var numberOfTeeth = int.Parse(Console.ReadLine());
 
             Console.WriteLine("\nHow many children?");
-            var childrenCount = int.Parse(Console.ReadLine()); // как защититься от стриги или нуля?
+            var childrenCount = int.Parse(Console.ReadLine()); // как защититься от стринги или нуля?
 
             // New Person
             Person p = new Person();

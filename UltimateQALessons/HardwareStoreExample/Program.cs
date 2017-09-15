@@ -10,15 +10,23 @@ namespace HardwareStoreExample
     {
         static void Main(string[] args)
         {
-            string partNo = Console.ReadLine();
-            string partDescription = Console.ReadLine();
-            int quantity = int.Parse(Console.ReadLine());
-            decimal price = decimal.Parse(Console.ReadLine());
+            Invoice myInvoice = new Invoice("09887", "Apple", 3, 3.50M);
 
-            Invoice myInvoice = new Invoice(partNo, partDescription, quantity, price);
+            //Console.WriteLine("Please, enter Invoice Part number:");
+            //myInvoice.Part = Console.ReadLine();
+            //Console.WriteLine("Please, enter Invoice Description:");
+            //myInvoice.Description = Console.ReadLine();
+            //Console.WriteLine("Please, enter Invoice Quantity:");
+            //myInvoice.Quantity = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Please, enter Invoice Price:");
+            //myInvoice.Price = decimal.Parse(Console.ReadLine());
 
-            Console.WriteLine(Invoice.GetInvoiceAmount("1", "Description", 5, 10.0m));
-
+            Console.WriteLine("Original Invoice information:");
+            Console.WriteLine("Part Number: {0}", myInvoice.Part);
+            Console.WriteLine("Description: {0}", myInvoice.Description);
+            Console.WriteLine("Quantity: {0}", myInvoice.Quantity);
+            Console.WriteLine("Price: {0:C}", myInvoice.Price);
+            Console.WriteLine("The Invoice Total : {0:C}", myInvoice.GetInvoiceAmt());
         }
     }
 }

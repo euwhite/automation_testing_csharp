@@ -14,10 +14,13 @@ namespace HardwareStoreExample
 
             //Console.WriteLine("Please, enter Invoice Part number:");
             //myInvoice.Part = Console.ReadLine();
+
             //Console.WriteLine("Please, enter Invoice Description:");
             //myInvoice.Description = Console.ReadLine();
+
             //Console.WriteLine("Please, enter Invoice Quantity:");
             //myInvoice.Quantity = int.Parse(Console.ReadLine());
+            
             //Console.WriteLine("Please, enter Invoice Price:");
             //myInvoice.Price = decimal.Parse(Console.ReadLine());
 

@@ -11,3 +11,9 @@ C:/Users/Eugene White/Google Drive/My Files/Automation Testing/Project/UltimateQ
 /Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.csproj.CoreCompileInputs.cache
 /Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.exe
 /Users/EugeneLyashenko/Projects/UltimateQALessons/UltimateQALessons/obj/Debug/UltimateQALessons.pdb
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.exe.config
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.exe
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\bin\Debug\UltimateQALessons.pdb
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.csprojResolveAssemblyReference.cache
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.exe
+C:\Projects\automation_testing_csharp\UltimateQALessons\UltimateQALessons\obj\Debug\UltimateQALessons.pdb

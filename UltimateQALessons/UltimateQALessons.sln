@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateQALessons", "Ultima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareStoreExample", "HardwareStoreExample\HardwareStoreExample.csproj", "{03C7BB48-4446-49A6-AE1F-B3D842EFE12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTest", "InvoiceTest\InvoiceTest.csproj", "{8470D9DD-A56E-4184-9734-927D23F4D9F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03C7BB48-4446-49A6-AE1F-B3D842EFE12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C7BB48-4446-49A6-AE1F-B3D842EFE12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03C7BB48-4446-49A6-AE1F-B3D842EFE12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8470D9DD-A56E-4184-9734-927D23F4D9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8470D9DD-A56E-4184-9734-927D23F4D9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8470D9DD-A56E-4184-9734-927D23F4D9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8470D9DD-A56E-4184-9734-927D23F4D9F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

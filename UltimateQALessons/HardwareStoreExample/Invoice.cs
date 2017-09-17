@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HardwareStoreExample
 {
-    class Invoice
+    public class Invoice
     {
         // fields
         private int quantity;
@@ -61,7 +61,6 @@ namespace HardwareStoreExample
                 {
                     price = value;
                 }
-
             }
         }
 

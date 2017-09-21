@@ -10,3 +10,4 @@ C:\Projects\automation_testing_csharp\UltimateQALessons\HardwareStoreExample\bin
 C:\Projects\automation_testing_csharp\UltimateQALessons\HardwareStoreExample\bin\Debug\HardwareStoreExample.pdb
 C:\Projects\automation_testing_csharp\UltimateQALessons\HardwareStoreExample\obj\Debug\HardwareStoreExample.exe
 C:\Projects\automation_testing_csharp\UltimateQALessons\HardwareStoreExample\obj\Debug\HardwareStoreExample.pdb
+C:\Projects\automation_testing_csharp\UltimateQALessons\HardwareStoreExample\obj\Debug\HardwareStoreExample.csprojResolveAssemblyReference.cache

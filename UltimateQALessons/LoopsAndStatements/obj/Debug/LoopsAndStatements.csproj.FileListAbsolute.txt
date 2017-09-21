@@ -1,0 +1,6 @@
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\bin\Debug\LoopsAndStatements.exe.config
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\bin\Debug\LoopsAndStatements.exe
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\bin\Debug\LoopsAndStatements.pdb
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\obj\Debug\LoopsAndStatements.csprojResolveAssemblyReference.cache
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\obj\Debug\LoopsAndStatements.exe
+C:\Projects\automation_testing_csharp\UltimateQALessons\LoopsAndStatements\obj\Debug\LoopsAndStatements.pdb

@@ -22,17 +22,17 @@ namespace InvoiceTest
         }
 
         [TestMethod]
-        public void TestPriceProperty()
-        {
-            Invoice myInvoice3 = new Invoice("09887", "Apple", 3, -3.50M);
-            Assert.AreEqual(-3.50M, myInvoice3.Price); // why test is Passed?
-        }
-
-        [TestMethod]
         public void TestQuantityProperty()
         {
             Invoice myInvoice4 = new Invoice("09887", "Apple", -3, 3.50M);
-            Assert.AreEqual(-3, myInvoice4.Quantity); // why test is Passed?
+            Assert.AreEqual(1, myInvoice4.Quantity);
+        }
+
+        [TestMethod]
+        public void TestPriceProperty()
+        {
+            Invoice myInvoice3 = new Invoice("09887", "Apple", 3, -3.50M);
+            Assert.AreEqual(0, myInvoice3.Price);
         }
     }
 }

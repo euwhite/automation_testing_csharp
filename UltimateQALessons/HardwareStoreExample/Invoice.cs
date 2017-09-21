@@ -42,9 +42,13 @@ namespace HardwareStoreExample
             }
             set
             {
-                if(quantity >= 0)
+                if (value >= 0)
                 {
                     quantity = value;
+                }
+                else
+                {
+                    quantity = 1;
                 }
             }
         }
@@ -57,9 +61,13 @@ namespace HardwareStoreExample
             }
             set
             {
-                if (price >= 0)
+                if (value >= 0)
                 {
                     price = value;
+                }
+                else
+                {
+                    price = 0;
                 }
             }
         }

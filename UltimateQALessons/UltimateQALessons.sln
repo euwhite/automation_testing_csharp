@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTest", "InvoiceTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndStatements", "LoopsAndStatements\LoopsAndStatements.csproj", "{07ADE12C-EEBE-4393-A1D0-10A9FD3A9C3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterControlledRepetition", "CounterControlledRepetition\CounterControlledRepetition.csproj", "{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{07ADE12C-EEBE-4393-A1D0-10A9FD3A9C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07ADE12C-EEBE-4393-A1D0-10A9FD3A9C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07ADE12C-EEBE-4393-A1D0-10A9FD3A9C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

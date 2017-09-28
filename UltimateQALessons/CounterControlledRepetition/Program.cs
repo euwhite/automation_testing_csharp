@@ -48,30 +48,26 @@ namespace CounterControlledRepetition
             //Nested controlled repetition
             int total3 = 0;
             int value3 = 0;
-            int counter3 = 1;
+            int counter3 = 0;
 
             Console.WriteLine("Please enter a Number which:\n1. More than 0;\n2. Less than 10;\n3. Or enter -1 to Exit the program");
 
-            while (value3 != -1)
+            while (value3 != -1 && counter3 <= 3 && total3 <= 20)
             {
+                Console.WriteLine("\nPlease enter your Number: ");
+                value3 = Convert.ToInt32(Console.ReadLine());
+
+                counter3++;
+
                 if (value3 > 10) // data validation
                 {
                     total3 = total3 + 10;
                     Console.WriteLine("You've entered the value more than 10, so 10 added to the total amount");
                 }
-                else if (value3 < 0) // data validation
-                {
-                    total3 = total3 + 0;
-                    Console.WriteLine("You've entered the value less than 0, so 0 added to the total amount");
-                }
-
-                counter3++;
-
-                Console.WriteLine("\nPlease enter your Number: ");
-                value3 = Convert.ToInt32(Console.ReadLine());
+                else total3 = total3 + value3;
             }
 
-            Console.WriteLine("Thank you! \nYour Total Number is: ");
+            Console.WriteLine("Thank you! \nYour Total Number is: {0}", total3);
             Console.ReadKey();
         }
     }

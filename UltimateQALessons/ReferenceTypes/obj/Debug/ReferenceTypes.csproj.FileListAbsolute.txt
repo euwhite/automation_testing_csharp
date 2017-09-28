@@ -1,0 +1,6 @@
+C:\Projects\UltimateQALessons\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Projects\UltimateQALessons\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Projects\UltimateQALessons\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Projects\UltimateQALessons\ReferenceTypes\obj\Debug\ReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Projects\UltimateQALessons\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Projects\UltimateQALessons\ReferenceTypes\obj\Debug\ReferenceTypes.pdb

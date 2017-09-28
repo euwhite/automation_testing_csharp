@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndStatements", "Loops
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterControlledRepetition", "CounterControlledRepetition\CounterControlledRepetition.csproj", "{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{7F91D0AA-3876-4861-904F-638210F55E94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3733AB-3469-4D19-B87B-45FC0AF2B3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F91D0AA-3876-4861-904F-638210F55E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F91D0AA-3876-4861-904F-638210F55E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F91D0AA-3876-4861-904F-638210F55E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F91D0AA-3876-4861-904F-638210F55E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

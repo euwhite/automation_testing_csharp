@@ -44,7 +44,6 @@ namespace CounterControlledRepetition
             //Console.WriteLine("\nThe Sum of numbers you've entered is: {0}", total2);
             //Console.ReadKey();
 
-
             //Nested controlled repetition
             int total3 = 0;
             int value3 = 0;

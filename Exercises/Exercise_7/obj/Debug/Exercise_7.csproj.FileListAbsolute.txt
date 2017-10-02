@@ -1,0 +1,5 @@
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_7\bin\Debug\Exercise_7.exe.config
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_7\bin\Debug\Exercise_7.exe
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_7\bin\Debug\Exercise_7.pdb
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_7\obj\Debug\Exercise_7.exe
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_7\obj\Debug\Exercise_7.pdb

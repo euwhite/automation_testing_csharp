@@ -1,0 +1,6 @@
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\bin\Debug\Exercise_3.exe
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\obj\Debug\Exercise_3.csprojResolveAssemblyReference.cache
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\obj\Debug\Exercise_3.exe
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercise_3\obj\Debug\Exercise_3.pdb

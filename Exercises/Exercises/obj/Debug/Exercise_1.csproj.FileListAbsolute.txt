@@ -1,0 +1,3 @@
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercises\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\Eugene White\Google Drive\My Files\Automation Testing\Project\Exercises\Exercises\obj\Debug\Exercises.pdb
